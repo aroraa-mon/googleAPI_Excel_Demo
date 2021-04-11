@@ -26,7 +26,7 @@ async function gsRun(client) {
 
     const opt = {
         spreadsheetId: '1W8yWb7F5BzipEZVgWWCHAHsmZ70v0XYLM4OIyPsRKGc',
-        range: 'January!A1:AX16'
+        range: 'January!A1:AX15'
     }
 
     try {
